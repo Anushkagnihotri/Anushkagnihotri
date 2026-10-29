@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Anushkagnihotri
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me linkedin.com/in/anushka-agnihotri-0067b5278 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I like to eat my coffee
 
